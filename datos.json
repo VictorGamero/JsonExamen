@@ -1,0 +1,63 @@
+{
+    "Tienda": {
+    	"Nombre":"Sport Shop",
+        "Localidad": "Merida",
+        "Cliente": "Jony Melavo",
+        "Email": "eseJony@gmail.com",
+			"Catalogo":{
+				"Catalogo Camisetas": {
+	                "Camiseta1": {
+	            		"Tipo":"Manga corta",
+	            		"Marca":"Mike",
+	            		"Tallas":"S, M y L"
+	        		},
+	        		"Camiseta2": {
+	                	"Tipo":"Manga larga",
+	            		"Marca":"Addidas",
+	           	 		"Tallas":"M y L"
+	           	 	},
+	        		"Camiseta3": {
+	        			"Tipo":"Sin mangas",
+	            		"Marca":"Gordan",
+	            		"Tallas":"M, L y XL"
+	        		}
+       			},
+	       		"Catalogo Pantalones": {
+	                "Pantalon1": {
+			            "Tipo":"Cortos",
+			            "Marca":"Gordan",
+			            "Tallas":"S, M y XL"
+	        		},
+	        		"Pantalon2": {
+			            "Tipo":"Cortos",
+			            "Marca":"Mike",
+			            "Tallas":"S y M"
+	           	 	},
+	        		"Pantalon3": {
+			            "Tipo":"Largos",
+			            "Marca":"Addidas",
+			            "Tallas":"M y XL"
+	        		}
+	       		},
+	       		"Catalogo zapatillas": {
+	                "Zapatillas1": {
+	        			"Deporte":"Baloncesto",
+			            "Marca":"Gordan",
+			            "Tallas":"41, 43, 45"
+	        		},
+	        		"Zapatillas2": {
+			            "Deporte":"Futbol",
+			            "Marca":"Messirve",
+			            "Tallas":"40, 41, 42"
+	           	 	},
+	        		"Zapatillas3": {
+			            "Deporte":"Baloncesto",
+			            "Marca":"Mike",
+			            "Tallas":"44, 45, 46"
+	        		}
+				}
+			}	
+    }
+
+}
+
